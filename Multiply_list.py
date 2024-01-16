@@ -10,6 +10,6 @@ def multi(list1):
 
 
 
-# list1=[1,2,1,2,10]
+list1=[1,2,1,2,10]
 
-# print("Multiply the all numbers in list: ",multi(list1))
+print("Multiply the all numbers in list: ",multi(list1))
