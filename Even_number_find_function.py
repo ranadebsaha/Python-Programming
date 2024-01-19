@@ -10,8 +10,8 @@ def even(list):
 
 
 
-# list1=[5,61,28,76,34,97,84,47]
+list1=[5,61,28,76,34,97,84,47]
 
-# print("Even numbers are: ")
+print("Even numbers are: ")
 
-# even(list1)
+even(list1)
