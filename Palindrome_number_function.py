@@ -21,7 +21,6 @@ def palindrome(a):
         print("This is not a Palindrome Number.")
 
 
+a=int(input("Enter a number: "))
 
-# a=int(input("Enter a number: "))
-
-# palindrome(a)  
+palindrome(a)  
