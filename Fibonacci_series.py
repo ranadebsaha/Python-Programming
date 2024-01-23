@@ -17,7 +17,6 @@ def fibo(n):
         
 
 
+n=int(input("Enter how many seris you want: "))
 
-# n=int(input("Enter how many seris you want: "))
-
-# fibo(n)
+fibo(n)
