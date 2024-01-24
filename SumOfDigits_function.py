@@ -14,6 +14,6 @@ def sod(a):
 
 
 
-# a=int(input("Enter a Number: ")) 
+a=int(input("Enter a Number: ")) 
 
-# sod(a)
+sod(a)
